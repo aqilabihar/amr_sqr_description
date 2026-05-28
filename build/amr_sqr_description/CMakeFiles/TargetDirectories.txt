@@ -1,9 +1,0 @@
-/home/suraqil/amr_sqr_ws/src/amr_sqr_description/build/amr_sqr_description/CMakeFiles/install/strip.dir
-/home/suraqil/amr_sqr_ws/src/amr_sqr_description/build/amr_sqr_description/CMakeFiles/install/local.dir
-/home/suraqil/amr_sqr_ws/src/amr_sqr_description/build/amr_sqr_description/CMakeFiles/edit_cache.dir
-/home/suraqil/amr_sqr_ws/src/amr_sqr_description/build/amr_sqr_description/CMakeFiles/test.dir
-/home/suraqil/amr_sqr_ws/src/amr_sqr_description/build/amr_sqr_description/CMakeFiles/install.dir
-/home/suraqil/amr_sqr_ws/src/amr_sqr_description/build/amr_sqr_description/CMakeFiles/list_install_components.dir
-/home/suraqil/amr_sqr_ws/src/amr_sqr_description/build/amr_sqr_description/CMakeFiles/rebuild_cache.dir
-/home/suraqil/amr_sqr_ws/src/amr_sqr_description/build/amr_sqr_description/CMakeFiles/amr_sqr_description_uninstall.dir
-/home/suraqil/amr_sqr_ws/src/amr_sqr_description/build/amr_sqr_description/CMakeFiles/uninstall.dir
